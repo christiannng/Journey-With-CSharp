@@ -1,0 +1,177 @@
+******************************OUTPUT******************************
+The knight starts at (x,y): (0, 0)
+You chose NonIntelligent method and want to run it 1 time(s)
+
+Trial 1: The Knight was able to successfully touched 46 squares
+******************************OUTPUT******************************
+The knight starts at (x,y): (0, 0)
+You chose NonIntelligent method and want to run it 10 time(s)
+
+Trial 1: The Knight was able to successfully touched 37 squares
+Trial 2: The Knight was able to successfully touched 36 squares
+Trial 3: The Knight was able to successfully touched 43 squares
+Trial 4: The Knight was able to successfully touched 32 squares
+Trial 5: The Knight was able to successfully touched 38 squares
+Trial 6: The Knight was able to successfully touched 17 squares
+Trial 7: The Knight was able to successfully touched 42 squares
+Trial 8: The Knight was able to successfully touched 31 squares
+Trial 9: The Knight was able to successfully touched 40 squares
+Trial 10: The Knight was able to successfully touched 16 squares
+******************************OUTPUT******************************
+The knight starts at (x,y): (0, 0)
+You chose NonIntelligent method and want to run it 1 time(s)
+
+Trial 1: The Knight was able to successfully touched 24 squares
+******************************OUTPUT******************************
+The knight starts at (x,y): (0, 0)
+You chose NonIntelligent method and want to run it 1 time(s)
+
+Trial 1: The Knight was able to successfully touched 43 squares
+******************************OUTPUT******************************
+Simulation started at: Thursday, 13 June 2019 12:04:39
+The knight starts at (x,y): (0, 0)
+You chose NonIntelligent method and want to run it 1 time(s)
+
+Trial 1: The Knight was able to successfully touched 42 squares
+******************************OUTPUT******************************
+Simulation started at: Thursday, 13 June 2019 12:11:51
+The knight's started position is (x,y): (0, 0)
+You chose NonIntelligent method and want to run it 1 time(s)
+
+Trial 1: The Knight was able to successfully touched 48 squares
+******************************OUTPUT******************************
+Simulation started at: Thursday, 13 June 2019 13:10:15
+The knight's started position is (x,y): (0, 0)
+You chose NonIntelligent method and want to run it 1 time(s)
+
+Trial 1: The Knight was able to successfully touched 38 squares
+******************************OUTPUT******************************
+Simulation started at: Thursday, 13 June 2019 13:11:12
+The knight's started position is (x,y): (0, 0)
+You chose NonIntelligent method and want to run it 100 time(s)
+
+Trial 1: The Knight was able to successfully touched 55 squares
+Trial 2: The Knight was able to successfully touched 42 squares
+Trial 3: The Knight was able to successfully touched 46 squares
+Trial 4: The Knight was able to successfully touched 35 squares
+Trial 5: The Knight was able to successfully touched 45 squares
+Trial 6: The Knight was able to successfully touched 47 squares
+Trial 7: The Knight was able to successfully touched 38 squares
+Trial 8: The Knight was able to successfully touched 37 squares
+Trial 9: The Knight was able to successfully touched 24 squares
+Trial 10: The Knight was able to successfully touched 26 squares
+Trial 11: The Knight was able to successfully touched 27 squares
+Trial 12: The Knight was able to successfully touched 33 squares
+Trial 13: The Knight was able to successfully touched 13 squares
+Trial 14: The Knight was able to successfully touched 16 squares
+Trial 15: The Knight was able to successfully touched 22 squares
+Trial 16: The Knight was able to successfully touched 43 squares
+Trial 17: The Knight was able to successfully touched 42 squares
+Trial 18: The Knight was able to successfully touched 37 squares
+Trial 19: The Knight was able to successfully touched 29 squares
+Trial 20: The Knight was able to successfully touched 46 squares
+Trial 21: The Knight was able to successfully touched 41 squares
+Trial 22: The Knight was able to successfully touched 47 squares
+Trial 23: The Knight was able to successfully touched 40 squares
+Trial 24: The Knight was able to successfully touched 32 squares
+Trial 25: The Knight was able to successfully touched 38 squares
+Trial 26: The Knight was able to successfully touched 37 squares
+Trial 27: The Knight was able to successfully touched 46 squares
+Trial 28: The Knight was able to successfully touched 37 squares
+Trial 29: The Knight was able to successfully touched 47 squares
+Trial 30: The Knight was able to successfully touched 16 squares
+Trial 31: The Knight was able to successfully touched 28 squares
+Trial 32: The Knight was able to successfully touched 38 squares
+Trial 33: The Knight was able to successfully touched 38 squares
+Trial 34: The Knight was able to successfully touched 34 squares
+Trial 35: The Knight was able to successfully touched 41 squares
+Trial 36: The Knight was able to successfully touched 32 squares
+Trial 37: The Knight was able to successfully touched 39 squares
+Trial 38: The Knight was able to successfully touched 26 squares
+Trial 39: The Knight was able to successfully touched 45 squares
+Trial 40: The Knight was able to successfully touched 45 squares
+Trial 41: The Knight was able to successfully touched 51 squares
+Trial 42: The Knight was able to successfully touched 20 squares
+Trial 43: The Knight was able to successfully touched 24 squares
+Trial 44: The Knight was able to successfully touched 34 squares
+Trial 45: The Knight was able to successfully touched 36 squares
+Trial 46: The Knight was able to successfully touched 26 squares
+Trial 47: The Knight was able to successfully touched 30 squares
+Trial 48: The Knight was able to successfully touched 36 squares
+Trial 49: The Knight was able to successfully touched 39 squares
+Trial 50: The Knight was able to successfully touched 30 squares
+Trial 51: The Knight was able to successfully touched 32 squares
+Trial 52: The Knight was able to successfully touched 12 squares
+Trial 53: The Knight was able to successfully touched 36 squares
+Trial 54: The Knight was able to successfully touched 49 squares
+Trial 55: The Knight was able to successfully touched 36 squares
+Trial 56: The Knight was able to successfully touched 25 squares
+Trial 57: The Knight was able to successfully touched 31 squares
+Trial 58: The Knight was able to successfully touched 44 squares
+Trial 59: The Knight was able to successfully touched 29 squares
+Trial 60: The Knight was able to successfully touched 25 squares
+Trial 61: The Knight was able to successfully touched 43 squares
+Trial 62: The Knight was able to successfully touched 54 squares
+Trial 63: The Knight was able to successfully touched 32 squares
+Trial 64: The Knight was able to successfully touched 54 squares
+Trial 65: The Knight was able to successfully touched 48 squares
+Trial 66: The Knight was able to successfully touched 40 squares
+Trial 67: The Knight was able to successfully touched 40 squares
+Trial 68: The Knight was able to successfully touched 50 squares
+Trial 69: The Knight was able to successfully touched 42 squares
+Trial 70: The Knight was able to successfully touched 32 squares
+Trial 71: The Knight was able to successfully touched 49 squares
+Trial 72: The Knight was able to successfully touched 47 squares
+Trial 73: The Knight was able to successfully touched 41 squares
+Trial 74: The Knight was able to successfully touched 56 squares
+Trial 75: The Knight was able to successfully touched 46 squares
+Trial 76: The Knight was able to successfully touched 42 squares
+Trial 77: The Knight was able to successfully touched 14 squares
+Trial 78: The Knight was able to successfully touched 36 squares
+Trial 79: The Knight was able to successfully touched 35 squares
+Trial 80: The Knight was able to successfully touched 44 squares
+Trial 81: The Knight was able to successfully touched 42 squares
+Trial 82: The Knight was able to successfully touched 34 squares
+Trial 83: The Knight was able to successfully touched 31 squares
+Trial 84: The Knight was able to successfully touched 40 squares
+Trial 85: The Knight was able to successfully touched 28 squares
+Trial 86: The Knight was able to successfully touched 46 squares
+Trial 87: The Knight was able to successfully touched 36 squares
+Trial 88: The Knight was able to successfully touched 8 squares
+Trial 89: The Knight was able to successfully touched 42 squares
+Trial 90: The Knight was able to successfully touched 29 squares
+Trial 91: The Knight was able to successfully touched 49 squares
+Trial 92: The Knight was able to successfully touched 43 squares
+Trial 93: The Knight was able to successfully touched 26 squares
+Trial 94: The Knight was able to successfully touched 43 squares
+Trial 95: The Knight was able to successfully touched 36 squares
+Trial 96: The Knight was able to successfully touched 12 squares
+Trial 97: The Knight was able to successfully touched 31 squares
+Trial 98: The Knight was able to successfully touched 48 squares
+Trial 99: The Knight was able to successfully touched 38 squares
+Trial 100: The Knight was able to successfully touched 32 squares
+******************************OUTPUT******************************
+Simulation started at: Thursday, 13 June 2019 22:25:31
+The knight's started position is (x,y): (0, 0)
+You chose NonIntelligent method and want to run it 1 time(s)
+
+Trial 1: The Knight was able to successfully touched 52 squares
+
+The average move touched by the knight after 1 trial(s) is 52 squares
+******************************OUTPUT******************************
+Simulation started at: Friday, 14 June 2019 11:57:10
+The knight's started position is (x,y): (0, 0)
+You chose NonIntelligent method and want to run it 10 time(s)
+
+Trial 1: The Knight was able to successfully touched 43 squares
+Trial 2: The Knight was able to successfully touched 37 squares
+Trial 3: The Knight was able to successfully touched 46 squares
+Trial 4: The Knight was able to successfully touched 37 squares
+Trial 5: The Knight was able to successfully touched 44 squares
+Trial 6: The Knight was able to successfully touched 35 squares
+Trial 7: The Knight was able to successfully touched 47 squares
+Trial 8: The Knight was able to successfully touched 40 squares
+Trial 9: The Knight was able to successfully touched 52 squares
+Trial 10: The Knight was able to successfully touched 43 squares
+
+The average moves touched by the knight after 10 trial(s) is 42.4 squares

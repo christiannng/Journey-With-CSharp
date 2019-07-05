@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Nguyen_VanHa_Assignment1.ChessBoard">
+    <Position X="1.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IACIAIAACACAAAAAAAAAAAAAAAAIAAAACAAACAAIAAA=</HashCode>
+      <FileName>ChessBoardClass\ChessBoardFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nguyen_VanHa_Assignment1.Method">
+    <Position X="1.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAEAAAAACAACAAAAAAAAAAAAAAAAQAAAAAAII=</HashCode>
+      <FileName>Methods\Method.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nguyen_VanHa_Assignment1.NonIntelligentMethod">
+    <Position X="3" Y="8.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Methods\NonIntelligentMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nguyen_VanHa_Assignment1.HeuristicsMethod">
+    <Position X="0.5" Y="8.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Methods\HeuristicsMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Nguyen_VanHa_Assignment1.Record">
+    <Position X="4.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAQAAAAAAAAAAAAAAAAAACAAAEAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Record.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
