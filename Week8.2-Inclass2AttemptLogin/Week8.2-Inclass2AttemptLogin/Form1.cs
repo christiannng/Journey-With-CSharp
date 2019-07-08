@@ -13,10 +13,7 @@ namespace Week8._2_Inclass2AttemptLogin
 {
     public partial class Form1 : Form
     {
-        SqlConnection conn = new SqlConnection();
-        private string constring = "Server=localhost;Database=Login;User=chris;Password=123";
-        private SqlCommand cmd;
-        int attempt = 1;
+        int attempt = 0;
 
         public Form1()
         {
@@ -28,47 +25,37 @@ namespace Week8._2_Inclass2AttemptLogin
             checkLogin(textBox1.Text, textBox2.Text);
         }
 
-        private void checkLogin(string lbluser, string lblPass)
+        private void checkLogin(string username, string password)
         {
-            conn.ConnectionString = constring;
-            SqlCommand cmd = conn.CreateCommand();
-            try
+            if (username == "" || password == "")
             {
-                string query = "SELECT * FROM LOGINTABLE WHERE username LIKE '" + lbluser + "';";
-                cmd.CommandText = query;
+                MessageBox.Show("Username and/or password cannot be empty",
+                    "Error!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else
+            {
+                LoginInfoDataSet ds1 = new LoginInfoDataSet();
+                LoginInfoDataSetTableAdapters.LoginInfoTableAdapter taLogin
+                    = new LoginInfoDataSetTableAdapters.LoginInfoTableAdapter();
 
-                conn.Open();
+                taLogin.Fill(ds1.LoginInfo);
+                DataRow[] dr = ds1.LoginInfo.Select("username = '" + username + "'");
 
-                //There is data in this reader.
-                //This data must be converted to an object that our datagrid can read.
-                SqlDataReader reader = cmd.ExecuteReader();
-
-                while (reader.Read())
+                if (dr[0]["password"].ToString() == password)
                 {
-                    if (reader.GetString(1).Equals(lblPass))
-                    {
-                        MessageBox.Show("Successfully login");
-                    }
-                    else
-                    {
-                        MessageBox.Show("Failed to login attempt " + attempt++);
-                    }
+                    MessageBox.Show("Login successfully", "Successful",
+                        MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    this.Close();
                 }
-                    
-                reader.Close();
+                else
+                {
+                    MessageBox.Show("Login Failed. Attempt #" + ++attempt, "Failed",
+                        MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
 
-                if (attempt == 3) this.Close();
-            }
-            catch (Exception ex)
-            {
-                string msg = ex.Message.ToString();
-                string caption = "Error";
-                MessageBox.Show(msg, caption, MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-            finally
-            {
-                cmd.Dispose(); //Clean up memory -> Dispose vs GC.Collect();
-                conn.Close();
+                if(attempt == 3) { this.Close(); }
+
+                taLogin.Fill(ds1.LoginInfo);
             }
         }
 

@@ -33,5 +33,15 @@ namespace Week8._2_Inclass2AttemptLogin.Properties {
                 return ((string)(this["LoginConnectionString"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=.\\;Initial Catalog=Login;User ID=midterm2;Password=123")]
+        public string LoginConnectionString1 {
+            get {
+                return ((string)(this["LoginConnectionString1"]));
+            }
+        }
     }
 }
