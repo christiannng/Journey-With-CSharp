@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Week8._2_Inclass2AttemptLogin.Properties {
+namespace DisconnectedModel1.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
@@ -26,11 +26,11 @@ namespace Week8._2_Inclass2AttemptLogin.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=.\\;Initial Catalog=Login;Persist Security Info=True;User ID=chris;Pas" +
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=.\\;Initial Catalog=Week5;Persist Security Info=True;User ID=chris;Pas" +
             "sword=123")]
-        public string LoginConnectionString {
+        public string Week5ConnectionString {
             get {
-                return ((string)(this["LoginConnectionString"]));
+                return ((string)(this["Week5ConnectionString"]));
             }
         }
     }
