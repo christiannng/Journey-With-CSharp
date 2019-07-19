@@ -1,0 +1,31 @@
+﻿html, body {
+    font-family: Courier New, Courier, monospace;
+    color: yellow;
+    background-color: black;
+}
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+#movieInfo, #billInfo, #userInfo{
+    text-align: right;
+}
+
+#priceInfo{
+    text-align: left;
+}
+
+#lblUserDB{
+    text-align: center;
+}
